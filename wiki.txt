@@ -1,0 +1,2 @@
+Hello everybody
+this repository is created to show how freeRTOS can be ported to F2806x microcontrollers
